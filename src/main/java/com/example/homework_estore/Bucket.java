@@ -19,5 +19,4 @@ public class Bucket {
     public List<Integer> get() {
         return bucket;
     }
-
 }
